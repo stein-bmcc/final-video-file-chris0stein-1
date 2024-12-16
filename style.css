@@ -101,3 +101,8 @@ figcaption{
     width: 100%;
     height: 100%;
   }
+  .audioFile{
+    text-align: center;
+    background-color: pink;
+    padding: 50px;
+  }
